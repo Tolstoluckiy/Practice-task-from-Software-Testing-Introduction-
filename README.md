@@ -22,14 +22,16 @@ ____
 
 Так как это все же учебное задание, я не стал составлять все возможные тест-кейсы, и не нашел все возможные баги (это в теории невозможно).
 
-#### В папке Task:
-* Чек-лист;
-* Инструкцию для выполнения тест-кейсов;
-* Тест-кейсы;
-* Баг-репорт.
+___
 
-#### В папке AudioCataloger находятся: 
-* jar-файл с программой;
-* Файл с требованиями; 
+### Task:
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Check%20List.pdf"> Чек-лист </a>
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Preparations.pdf"> Приготовления для выполнения тест-кейсов </a>
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Check%20List.pdf"> Тест-кейсы </a>
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Defect%20Report.pdf"> Баг-репорты </a>
+
+### AudioCataloger: 
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/AudioCataloger.jar"> jar-файл с программой </a>
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Audio_Cataloger_Requirements.pdf"> Требования </a>
 
 💡 Важно: чтобы воспользоватся программой на утройстве должна быть установленна минимальная версия Java – 8.0.60.
