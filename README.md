@@ -27,7 +27,7 @@ ___
 ### Task:
 * <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Check%20List.pdf"> Чек-лист </a>
 * <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Preparations.pdf"> Приготовления для выполнения тест-кейсов </a>
-* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Check%20List.pdf"> Тест-кейсы </a>
+* <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Test-suit.pdf"> Тест-кейсы </a>
 * <a href="https://github.com/Tolstoluckiy/Practice-task-from-Software-Testing-Introduction-/blob/main/Defect%20Report.pdf"> Баг-репорты </a>
 
 ### AudioCataloger: 
