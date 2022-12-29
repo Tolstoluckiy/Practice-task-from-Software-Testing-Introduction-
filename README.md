@@ -1,4 +1,4 @@
-# Practice-task-from-Software-Testing-Introduction-
+# Homework
 📚 В этом репозитории я загрузил файлы с практическими заданиями из курса Святослава Куликова "Software Testing Introduction"
 
 <a href="http://svyatoslav.biz/urls/stc_online/">Ссылка на сам курс </a>
